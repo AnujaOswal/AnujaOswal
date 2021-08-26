@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-#### I'm a Asipring Developer!!
+#### I'm a Aspiring Developer!!
 
 - 🌱 I’m currently learning everything : Java | Javascript | React | Node | Git..
 - 👯 I’m looking to collaborate on interesting projects.
